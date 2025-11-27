@@ -13,3 +13,11 @@ Nueva linea agregada al archivo
 Esta linea fue agregada aqui en github
 Esto es un cambio para probar el ssh
 Agregando nueva documentacion al proyecto
+
+Estas lineas a partir de aqui son las de los cambios menores
+
+## Cambios menores
+
+Son aquellos cambios para funciones especificas o pequeñas
+
+Y ya fin de los cambios
