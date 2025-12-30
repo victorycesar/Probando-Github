@@ -21,3 +21,21 @@ Estas lineas a partir de aqui son las de los cambios menores
 Son aquellos cambios para funciones especificas o pequeñas
 
 Y ya fin de los cambios
+
+### Funciones nuevas agregadas
+
+El main.cpp fue agregado y se le agrego la funcionalidad de sumar dos enteros con 
+la entrada del usuario
+
+Para compilar:
+
+```
+g++ main.cpp -o main
+
+```
+Para ejecutar:
+
+```
+./main
+
+```
